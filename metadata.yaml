@@ -1,0 +1,29 @@
+_repo: Myths-of-Babylonia-and-Assyria_16653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackenzie, Donald A. (Donald Alexander)
+    alias: Mackenzie, Donald Alexander
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '3303'
+    url: http://www.gutenberg.org/2009/agents/3303
+description: ''
+gutenberg_bookshelf: Mythology
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology, Assyro-Babylonian'
+- !lcsh 'Assyro-Babylonian religion'
+title: Myths of Babylonia and Assyria
+url: http://www.gutenberg.org/ebooks/16653
